@@ -1,0 +1,32 @@
+[MAIN]
+posX = 314
+posY = 528
+centered = 0
+[PLAYLIST]
+posX = 557
+posY = 127
+centered = 0
+[SKIN]
+posX = 1114
+posY = 525
+centered = 0
+[SEARCH]
+posX = 579
+posY = 286
+centered = 0
+[CONF]
+posX = 609
+posY = 458
+centered = 0
+[INFO]
+lecture = 1
+repeat = 2
+auto = 1
+volume = 1000
+balance = 0
+[DATA]
+lang = English
+skin = Hifi
+[SCAN]
+nDays = 15
+lastScan = 1253973306

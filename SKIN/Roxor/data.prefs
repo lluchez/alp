@@ -1,0 +1,459 @@
+[SKIN_INFO]
+name = Roxor
+autor = dasky
+date = 01/09/2005
+info1 = %INFO1% : %SINGER%%NEW_LINE%%INFO2% : %SONG%
+info2 = %ELAPS%%NEW_LINE%-%TTL%
+info3 = 
+info4 = %SONG%
+
+; Info chanson
+[FONT1]
+police = Astrolyte
+size = 9
+bold = 1
+italic = 0
+underline = 0
+color = 16777215
+
+; Title
+[FONT2]
+police = Astrolyte
+size = 11
+bold = 1
+italic = 0
+underline = 1
+color = 16777215
+
+; sTitle
+[FONT3]
+police = Astrolyte
+size = 11
+bold = 1
+italic = 0
+underline = 0
+color = 11558201
+
+; list
+[FONT4]
+police = Astrolyte
+size = 8
+bold = 0
+italic = 0
+underline = 0
+color = 16777215
+
+
+
+; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+; 				Fenetre principale
+; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[PREV]
+posX = 38
+posY = 112
+width = 36
+height = 36
+
+[PAUSE]
+posX = 74
+posY = 112
+width = 36
+height = 36
+
+[PLAY]
+posX = 110
+posY = 112
+width = 36
+height = 36
+
+[STOP]
+posX = 146
+posY = 112
+width = 36
+height = 36
+
+[NEXT]
+posX = 182
+posY = 112
+width = 36
+height = 36
+
+[OPEN]
+posX = 218
+posY = 112
+width = 36
+height = 36
+
+[INFO_SONG1]
+posX = 13
+posY = 37
+width = 300
+height = 27
+
+[INFO_SONG2]
+posX = 330
+posY = 37
+width = 55
+height = 27
+param1 = 2
+
+[INFO_SONG3]
+hide = 1
+
+[TRACK_POS]
+posX = 45
+posY = 79
+width = 116
+height = 20
+
+[TRACK_VOL]
+posX = 260
+posY = 79
+width = 20
+height = 66
+
+[TRACK_BAL]
+posX = 186
+posY = 79
+width = 66
+height = 20
+
+
+[OPEN_PL]
+posX = 315
+posY = 87
+width = 26
+height = 26
+
+[OPEN_SKIN]
+posX = 310
+posY = 116
+width = 39
+height = 34
+
+[OPEN_BD]
+posX = 348
+posY = 84
+width = 46
+height = 31
+
+[OPEN_CONF]
+posX = 352
+posY = 116
+width = 35
+height = 34
+
+[EXIT]
+posX = 389
+posY = 2
+width = 11
+height = 11
+
+[REDUC]
+posX = 376
+posY = 2
+width = 11
+height = 11
+
+[SYSTRAY]
+posX = 363
+posY = 2
+width = 11
+height = 11
+
+
+; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+; 				Fenetre de la PlayList
+; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[PL_EXIT]
+posX = 325
+posY = 5
+width = 15
+height = 15
+
+[PL_LIST]
+posX = 10
+posY = 25
+width = 322
+height = 253
+
+[PL_TITLE]
+posX = 12
+posY = 6
+width = 240
+height = 17
+
+
+[PL_OPEN]
+posX = 285
+posY = 5
+width = 16
+height = 14
+
+[PL_SAVE]
+posX = 305
+posY = 5
+width = 16
+height = 14
+
+[PL_NEW]
+posX = 265
+posY = 5
+width = 16
+height = 14
+
+
+
+; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+; 				Fenetre de choix du Skin
+; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[SK_TITLE]
+posX = 12
+posY = 7
+width = 200
+height = 17
+
+[SK_LIST]
+posX = 10
+posY = 25
+width = 150
+height = 120
+
+[SK_OK]
+posX = 50
+posY = 150
+width = 60
+height = 20
+
+[SK_VIEW]
+posX = 170
+posY = 29
+width = 154
+height = 128
+
+[SK_EXIT]
+posX = 316
+posY = 5
+width = 15
+height = 15
+
+
+
+
+; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+; 				Fenetre de configuration
+; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[CF_TITLE]
+posX = 12
+posY = 6
+width = 190
+height = 17
+
+[CF_EXIT]
+posX = 361
+posY = 5
+width = 15
+height = 15
+
+[CF_SCROLL]
+posX = 5
+posY = 25
+width = 370
+height = 400
+param1 = 350
+param2 = 400
+
+; Les Gadgets des dossiers
+[CF_FOLD_LBL]
+posX = 5
+posY = 5
+width = 300
+height = 15
+
+[CF_FOLD_LIST]
+posX = 10
+posY = 25
+width = 335
+height = 60
+
+[CF_FOLD_NEW]
+posX = 100
+posY = 90
+width = 70
+height = 20
+
+[CF_FOLD_DEL]
+posX = 180
+posY = 90
+width = 70
+height = 20
+
+; Les Gadgets des extensions
+[CF_EXT_LBL]
+posX = 5
+posY = 130
+width = 300
+height = 15
+
+[CF_EXT_LIST]
+posX = 10
+posY = 150
+width = 250
+height = 60
+
+[CF_EXT_NEW]
+posX = 270
+posY = 155
+width = 70
+height = 20
+
+[CF_EXT_DEL]
+posX = 270
+posY = 185
+width = 70
+height = 20
+
+; Les Gadgets des langages
+[CF_LANG_LBL]
+posX = 5
+posY = 230
+width = 300
+height = 15
+
+[CF_LANG_LIST]
+posX = 10
+posY = 250
+width = 250
+height = 60
+
+; Les Gadgets de l'analyse
+[CF_SRC_LBL]
+posX = 5
+posY = 330
+width = 300
+height = 15
+
+[CF_SRC_LBL1]
+posX = 60
+posY = 350
+width = 245
+height = 15
+
+[CF_SRC_LBL2]
+posX = 60
+posY = 365
+width = 245
+height = 15
+
+[CF_SRC_TEXT]
+posX = 15
+posY = 350
+width = 35
+height = 20
+param1 = 8192
+
+
+; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+; 				Fenetre de recherche de musiques
+; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+[SRC_TITLE]
+posX = 12
+posY = 6
+width = 140
+height = 17
+
+[SRC_EXIT]
+posX = 380
+posY = 5
+width = 15
+height = 15
+
+[SRC_NOM_LBL]
+posX = 10
+posY = 33
+width = 120
+height = 15
+
+[SRC_NOM_TEXT]
+posX = 135
+posY = 30
+width = 125
+height = 20
+
+[SRC_NOM_BT]
+posX = 280
+posY = 30
+width = 100
+height = 20
+
+
+[SRC_CHK_SONG]
+posX = 270
+posY = 60
+width = 120
+height = 15
+
+[SRC_CHK_ART]
+posX = 270
+posY = 80
+width = 120
+height = 15
+
+[SRC_CHK_ALB]
+posX = 270
+posY = 100
+width = 120
+height = 15
+
+
+[SRC_RESULT]
+posX = 10
+posY = 60
+width = 250
+height = 15
+
+[SRC_LIST]
+posX = 10
+posY = 80
+width = 250
+height = 160
+
+[SRC_ADD_PL]
+posX = 270
+posY = 135
+width = 120
+height = 20
+
+[SRC_ADD_ALL]
+posX = 270
+posY = 160
+width = 120
+height = 20
+
+
+[SRC_BAR]
+posX = 140
+posY = 253
+width = 250
+height = 15
+param1 = 16711680
+param2 = 16777215
+
+[SRC_BT_SRC]
+posX = 10
+posY = 250
+width = 120
+height = 20
+
+[SRC_PROGRESS]
+posX = 270
+posY = 230
+width = 120
+height = 15
+param1 = 1

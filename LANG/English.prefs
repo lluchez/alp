@@ -1,0 +1,137 @@
+[ERROR]
+ERR_GENERAL        = An error has been detected. Program is shutting down !
+ERR_ODBC_INI       = ODBC's drivers v3 or more are require !
+ERR_ODBC_DRIVERS   = ODBC's drivers hasn't been found on your computer !
+ERR_BD_NOT_OPEN    = Error while opening DataBase !
+ERR_LOAD_EXT       = Supported extensions hasn't been found !
+ERR_LOAD_FOLD_LIB  = Librairies's folders hasn't been found !
+ERR_SKIN_NOTEXIST  = The skin doesn't exist !
+ERR_SKIN_IMG       = Pictures are missing. This skin isn't available !
+ERR_SKIN_PREF      = Skin setting file is missing !
+ERR_SKIN_DATA      = Skin setting file is not complete !
+ERR_SKIN_NONE      = None skin is selected !
+ERR_NOT_CHECKED    = You've to select a song, an artist or an album !
+ERR_SEARCH_THREAD  = Can't update the database !
+ERR_NO_FOLDER      = First enter folders !
+ERR_ICON_NOT_FOUND = Icon not found!
+
+[TITLE]
+ERR_MSG   = ALP - Error
+ERR_SKIN  = ALP - Skin error
+CONFIRM   = ALP - Confirm
+ADD_EXT   = ALP - Add an extension
+
+
+[WINDOW]
+WIN_PL      = Play list
+WIN_SKIN    = Skin manager
+WIN_SEARCH  = Library
+WIN_CONF    = Configuration
+WIN_LOAD    = Load songs
+MSG_FOLDER  = Add a folder
+
+
+[LABEL]
+PL        = Playlist
+SKIN      = Skins's manager
+SEARCH    = Library
+CONF      = Configuration
+CF_FOLD   = Folders list
+CF_EXT    = Supported extension list
+CF_LANG   = Language
+CF_SRC    = Database update
+CF_SRC1   = Frequency scan (in days)
+CF_SRC2   = (0 means manuel scan)
+DEL_FOLD  = Delete this folder ?
+ADD_EXT1  = Enter the new extension (exemple : MP3).
+ADD_EXT2  = Extension's description :
+DEL_EXT   = Delete this extension ?
+SRC_NOM   = Words to search :
+SRC_C_T   = Title
+SRC_C_C   = Artist
+SRC_C_A   = Album
+SRC_RESULT = Search result :
+SRC_PROC  = Files
+STOP_SCAN = Stop this scan ?
+
+
+[BOUTON]
+NEW         = Add
+DEL         = Delete
+OK          = Ok
+CANCEL      = Cancel
+ADD_PL      = Add to PL
+ADD_ALL     = Add all to PL
+SEARCH      = Search
+MAJ         = Update
+STOP_MAJ    = Stop
+
+
+[INFO_BULLE]
+PREV        = Previous
+PAUSE       = Pause
+PLAY        = Play
+STOP        = Stop
+NEXT        = Next
+OPEN        = Load songs
+OPEN_SKIN   = See all available skins
+OPEN_PL     = Open the PlayList
+OPEN_BD     = Search for song from library
+OPEN_CONF   = Configure ALP
+PL_NEW      = New PlayList
+PL_OPEN     = Open a PlayList
+PL_SAVE     = Save this playList
+CLOSE       = Close this window
+EXIT        = Close AudioLibPlayer
+REDUCE      = Reduce ALP
+MINIMIZE    = Minimize ALP
+FLD_LIST    = Folders's list used for searching audio's files.
+SEARCH      = Entrer keywords related to the searched files
+SRC_SONG    = Search on title
+SRC_ART     = Search on artist
+SRC_ALB     = Search on album
+MAJ         = Update the database
+TB_POS      = Song position
+TB_VOL      = Volume : 
+TB_BAL      = Balance : 
+ADD_PL      = Add all selected songs to playlist
+ADD_ALL     = Add all songs to playlist
+GO_SRC      = Search songs
+
+
+[OTHER]
+ALL_EXT   = All audio Files
+FILE_PL   = PlayList File
+
+
+[POP_UP]
+RESTORE   = Restore
+MINIMIZ   = Reduce
+SYSTRAY   = Minimize
+LECT      = Lecture
+LECT_N    = Normal
+LECT_R    = Random
+REP       = Repeat
+REP_N     = None
+REP_T     = Track
+REP_A     = All
+AUTO      = Launch
+AUTO_N    = Manual
+AUTO_Y    = Automatic
+VOLUME    = Volume
+VOL-      = Decrease
+VOL+      = Increase
+MUTE      = Mute
+BALANCE   = Balance
+BAL_L     = Left
+BAL_M     = Auto balance
+BAL_R     = Right
+QUIT      = Close ALP
+
+
+[INFO_SONG]
+1  = Artist
+2  = Title
+3  = Elapsed time
+4  = Remining time
+5  = Album

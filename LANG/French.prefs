@@ -1,0 +1,137 @@
+[ERROR]
+ERR_GENERAL         = Une erreur est survenu. Le programme va donc se terminer !
+ERR_ODBC_INI        = Des drivers ODBC v3 ou supérieur sont requis !
+ERR_ODBC_DRIVERS    = Les drivers ODBC n'ont pas été trouvés sur votre ordinateur !
+ERR_BD_NOT_OPEN     = Echec lors de l'ouverture de la base de données !
+ERR_LOAD_EXT        = Impossible de trouver les extensions supportées !
+ERR_LOAD_FOLD_LIB   = Impossible de trouver les dossiers de la librairie !
+ERR_SKIN_NOTEXIST   = Le skin n'existe pas !
+ERR_SKIN_IMG        = Des images sont manquantes. Le skin n'est pas utilisable !
+ERR_SKIN_PREF       = Impossible de trouver le fichier de configuration du skin !
+ERR_SKIN_DATA       = Le fichier de configuration du skin est incomplet !
+ERR_SKIN_NONE       = Aucun skin n'est sélectionné !
+ERR_NOT_CHECKED     = Vous devez sélectionner une chanson, un artiste ou un album !
+ERR_SEARCH_THREAD   = Imposssible de mettre à jour la base de données !
+ERR_NO_FOLDER       = Vous devez entrer des dossiers au préalable !
+ERR_ICON_NOT_FOUND  = Icône introuvable !
+
+[TITLE]
+ERR_MSG   = ALP - Erreur
+ERR_SKIN  = ALP - Erreur de skin
+CONFIRM   = ALP - Confirmation
+ADD_EXT   = ALP - Ajout d'une extension
+
+
+[WINDOW]
+WIN_PL      = Liste des chansons
+WIN_SKIN    = Gestion des skins
+WIN_SEARCH  = Librairie
+WIN_CONF    = Configuration
+MSG_LOAD    = Charger des chansons
+MSG_FOLDER  = Dossier à ajouter
+
+
+[LABEL]
+PL        = Liste des chansons
+SKIN      = Gestion des skins
+SEARCH    = Librairie
+CONF      = Configuration
+CF_FOLD   = Liste des dossiers
+CF_EXT    = Liste des extensions supportées
+CF_LANG   = Choix de la langue
+CF_SRC    = Mise à jour de la base de données
+CF_SRC1   = Fréquence d'analyse (en jours)
+CF_SRC2   = (0 correspond à une analyse manuelle)
+DEL_FOLD  = Etes-vous sûr de supprimer ce dossier ?
+ADD_EXT1  = Entrez l'extension à ajouter (exemple : MP3).
+ADD_EXT2  = Descriptif de l'extension :
+DEL_EXT   = Etes-vous sûr de supprimer cette extension ?
+SRC_NOM   = Mots à rechercher :
+SRC_C_T   = Titre
+SRC_C_C   = Artiste
+SRC_C_A   = Album
+SRC_RESULT = Résultats de la recherche :
+SRC_PROC  = Fichiers
+STOP_SCAN = Etes-vous sûr de vouloir stopper l'analyse ?
+
+
+[BOUTON]
+NEW         = Ajouter
+DEL         = Supprimer
+OK          = Ok
+CANCEL      = Annuler
+ADD_PL      = Ajouter à la PL
+ADD_ALL     = Tous ajouter
+SEARCH      = Rechercher
+MAJ         = Mise à jour
+STOP_MAJ    = Stop
+
+
+[INFO_BULLE]
+PREV        = Chanson précédente
+PAUSE       = Mettre la chanson en pause
+PLAY        = Lancer la chanson
+STOP        = Arrêter la chanson
+NEXT        = Chanson suivante
+OPEN        = Charger des chansons
+OPEN_SKIN   = Voir les différentes apparences
+OPEN_PL     = Ouvrir la PlayList
+OPEN_BD     = Rechercher des chansons depuis la librairie
+OPEN_CONF   = Configurer ALP
+PL_NEW      = Nouvelle PlayList
+PL_OPEN     = Ouvrir une sélection
+PL_SAVE     = Enregistrer la playList
+CLOSE       = Fermer cette fenêtre
+EXIT        = Fermer AudioLibPlayer
+REDUCE      = Réduire ALP
+MINIMIZE    = Minimiser ALP
+FLD_LIST    = Liste des dossiers qui seront analysés pour la recherche de fichiers audios
+SEARCH      = Entrez les mots qui correspondent aux chansons que vous recherchez
+SRC_SONG    = Recherche sur le titre de la chanson
+SRC_ART     = Recherche sur le nom de l'artiste
+SRC_ALB     = Recherche sur le nom de l'album
+MAJ         = Mettre la base de données à jour
+TB_POS      = Position de la chanson
+TB_VOL      = Volume : 
+TB_BAL      = Balance : 
+ADD_PL      = Ajouter toutes les chansons sélectionnées à la liste de lecture
+ADD_ALL     = Ajouter toutes les chansons à la liste de lecture
+GO_SRC      = Lancer la recherche
+
+
+[OTHER]
+ALL_EXT   = Tous les fichiers audio
+FILE_PL   = Fichier PlayList
+
+
+[POP_UP]
+RESTORE   = Restaure
+MINIMIZ   = Réduire
+SYSTRAY   = Minimiser
+LECT      = Lecture
+LECT_N    = Normale
+LECT_R    = Aleatoire
+REP       = Répétition
+REP_N     = Aucune
+REP_T     = Chanson
+REP_A     = Tout
+AUTO      = Démarrage
+AUTO_N    = Manuel
+AUTO_Y    = Automatique
+VOLUME    = Volume
+VOL-      = Diminuer
+VOL+      = Augmenter
+MUTE      = Muet
+BALANCE   = Balance
+BAL_L     = Gauche
+BAL_M     = Equilibrer
+BAL_R     = Droit
+QUIT      = Fermer ALP
+
+
+[INFO_SONG]
+1  = Artiste
+2  = Titre
+3  = Temps écoulé
+4  = Temps restant
+5  = Album

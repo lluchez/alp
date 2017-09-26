@@ -1,0 +1,31 @@
+
+***********************
+
+
+Problème d'affichage de tag des WMA (donc sans doute tout sauf MP3)
+alors que le nom de la fanêtre prend bien le nom du morceau... :S
+
+
+***********************
+
+
+Rajouter 3 boutons dans 'research' : 
+	* copier le fichier vers
+	* supprimer le fichier
+	* ouvrir le dossier du fichier
+
+
+***********************
+
+
+Gestion des types (Rock, Dance, Techno...)
+
+
+
+***********************
+
+
+Quand on stoppe une chanson, puis "pause"
+On ne peut plus lancer cette chanson !!! :S
+
+
